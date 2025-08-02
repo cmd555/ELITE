@@ -1,2 +1,2 @@
-from PRINCE import menu
+from ELITE import menu
 menu()
